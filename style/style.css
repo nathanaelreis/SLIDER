@@ -90,3 +90,7 @@ Body{
 .navigation-auto div:not(:last-child){
     margin-right: 40px;
 }
+
+#radio1:checked ~ .navigation-auto .auto-btn1{
+    background-color: #ffffff;
+}
