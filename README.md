@@ -5,7 +5,7 @@ Um slider simples.
 
 ## Aprendizados
 
-Desenvolve as capacidade de uso do java scripr alem de revisasr a organização do elemento via css.
+Desenvolve as capacidade de uso do javascript alem de revisar a organização do elemento via css.
 
 
  CSS
