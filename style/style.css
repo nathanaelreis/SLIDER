@@ -11,8 +11,8 @@ Body{
 
 .slider{
     margin: 0 auto;
-    width: 800px;
-    height: 400px;
+    width: 100vw;
+    height: 100vh;
     overflow: hidden;
     border-radius: 15px;
 }
@@ -35,15 +35,16 @@ Body{
 }
 
 .slide img{
-    width: 800px;
+    width: 100%;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
 }
 .manual-navigation{
+    left: 25%;
     position: absolute;
     width: 800px;
-    margin-top: -40px;
+    margin-top: 400px;
     display: flex;
     justify-content: center;
 }
@@ -86,9 +87,10 @@ Body{
 }
 
 .navigation-auto{
+    left: 25%;
     position: absolute;
     width: 800px;
-    margin-top: 360px;
+    margin-top: 800px;
     display: flex;
     justify-content: center;
 }
